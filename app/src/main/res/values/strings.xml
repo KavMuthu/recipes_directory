@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Recipes Directory</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_info">Information</string>
+    <string name="action_uninstall">Uninstall</string>
+    <string name="chococake_recipe">1. Preheat oven to 350 degrees F (175 degrees C).\n\n
+                                    2. Grease and flour two nine inch round pans.\n\n
+                                    3. Bake 30 to 35 minutes in the preheated oven, until the cake tests done with a toothpick.\n\n
+                                    4. Cool in the pans for 10 minutes, then remove to a wire rack to cool completely.In a large bowl, stir together the sugar, flour, cocoa, baking powder, baking soda and salt.\n\n
+                                    5. Add the eggs, milk, oil and vanilla, mix for 2 minutes on medium speed of mixer. Stir in the boiling water last. Batter will be thin. Pour evenly into the prepared pans.</string>
+    <string name="redvelvet_recipe">1. Preheat oven to 350 degrees F (175 degrees C).\n\n
+                                    2. Grease two 9-inch round pans.Beat shortening and 1 1/2 cups sugar until very light and fluffy.\n\n
+                                    3. Add eggs and beat well.Make a paste of cocoa and red food coloring; add to creamed mixture. Mix salt, 1 teaspoon vanilla, and buttermilk together.\n\n
+                                    4. Add the flour to the batter, alternating with the buttermilk mixture, mixing just until incorporated. Mix soda and vinegar and gently fold into cake batter.Pour batter into prepared pans.\n\n
+                                    5. Bake in preheated oven until a tester inserted into the cake comes out clean, about 30 minutes. Cool cakes completely on wire rack.</string>
+    <string name="carrotcake_recipe">1. Preheat oven to 350 degrees F (175 degrees C).\n\n
+                                     2. Grease a 9x13 inch baking pan. Set aside.In a large bowl, mix together sugar, oil, eggs, vanilla, and buttermilk. Stir in carrots, coconut, vanilla, and pineapple.\n\n
+                                     3. In a separate bowl, combine flour, baking soda, cinnamon, and salt; gently stir into carrot mixture. Stir in chopped nuts. Spread batter into prepared pan.\n\n
+                                     4. Bake for 55 minutes or until toothpick inserted into cake comes out clean. Remove from oven, and set aside to cool.\n\n
+                                     5. In a medium mixing bowl, combine butter or margarine, cream cheese, vanilla, and confectioners sugar. Blend until creamy. Frost cake while still in the pan.</string>
+    <string name="raspberrycake_recipe">1. In a saucepan, combine raspberries, 2 tablespoons sugar, cornstarch, and water.\n\n
+                                        2. Bring to boil, and continue boiling 5 minutes, or until sauce is thick. Strain sauce through a mesh strainer to remove seeds.\n\n
+                                        3. Preheat oven to 325 degrees F (165 degrees C). In a metal bowl over a pan of simmering water, melt white chocolate chips with half-and-half, stirring occasionally until smooth.\n\n
+                                        4. In a large bowl, mix together cream cheese and 1/2 cup sugar until smooth. Beat in eggs one at a time. Blend in vanilla and melted white chocolate. Pour half of batter over crust. Spoon 3 tablespoons raspberry sauce over batter.\n\n
+                                        5. Pour remaining cheesecake batter into pan, and again spoon 3 tablespoons raspberry sauce over the top.Bake for 55 to 60 minutes, or until filling is set. Cool, cover with plastic wrap, and refrigerate for 8 hours before removing from pan.\n\n
+                                        6. Serve with remaining raspberry sauce.</string>
+    <string name="walnutcake_recipe">1. Preheat oven to 350 degrees F (175 degrees C).\n\n
+                                     2. Grease and flour a 9x13 inch pan. Sift together the flour, baking soda, cinnamon and salt. Set aside.\n\n
+                                     3. Combine the apples and the white sugar; set aside. In a large bowl, mix together the brown sugar, oil, eggs and vanilla.\n\n
+                                     4. Stir in the apple mixture, then the flour mixture. Fold in the walnuts.Pour batter into prepared pan. \n\n
+                                     5. Bake in the preheated oven for 45 minutes, or until a toothpick inserted into the center of the cake comes out clean. Allow to cool.</string>
+    <string name="cheesecake_recipe">1. Preheat oven to 350 degrees F (175 degrees C).\n\n
+                                     2. Grease a 9 inch spring form pan. In a medium bowl, mix graham cracker crumbs with melted butter. Press onto bottom of spring form pan.\n\n
+                                     3. In a large bowl, mix cream cheese with sugar until smooth. Blend in milk, and then mix in the eggs one at a time, mixing just enough to incorporate.\n\n
+                                     4. Mix in sour cream, vanilla and flour until smooth. Pour filling into prepared crust. Bake in preheated oven for 1 hour. Turn the oven off, and let cake cool in oven with the door closed for 5 to 6 hours; this prevents cracking.\n\n
+                                     5. Chill in refrigerator until serving.</string>
+    <string name="eclaircake_recipe">1. In a medium bowl, thoroughly blend the pudding mix, whipped topping, and milk.\n\n
+                                     2. Arrange a single layer of graham cracker squares in the bottom of a 13x9 inch baking pan.\n\n
+                                     3. Evenly spread half of the pudding mixture over the crackers. Top with another layer of crackers and the remaining pudding mixture. Top with a final layer of graham crackers. \n\n
+                                     4. Spread the frosting over the whole cake up to the edges of the pan. Cover, and chill at least 4 hours before serving.</string>
+
+    <string name="cakeRecpies_info"> RecipesList app has the best cake recipes prepared by the famous Indian baker Vikram Suresh.\n\n Easy to follow steps will make your baking a pleasure.</string>
+
+</resources>
